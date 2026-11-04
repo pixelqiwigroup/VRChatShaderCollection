@@ -1,5 +1,5 @@
 # A collection of shaders used in Worlds made by pixelqiwi
-Written entirely by ChatGPT and/or DeepSeek.
+Written entirely by ChatGPT, DeepSeek and Claude.
 
 ## SubpixelEmissiveGammaShader
 Makes the Sprite texture you use on it be rendered as separate Red, Green and Blue lines, imitating an LCD pixel grid. Has settings for distance when the subpixel rendering shows up, so from afar the texture looks the way it should, and when you come close you can count each individual subpixel.
